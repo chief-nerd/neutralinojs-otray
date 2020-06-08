@@ -1,0 +1,15 @@
+{
+  "name": "otray",
+  "version": "0.0.1",
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "neutralino-mac",
+    "build-lib": "(cd ./lib/neutralinojs/; bash build.sh macos) && cp ./lib/neutralinojs/dist/neutralino ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

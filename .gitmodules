@@ -1,0 +1,3 @@
+[submodule "lib/neutralinojs"]
+	path = lib/neutralinojs
+	url = git@github.com:neutralinojs/neutralinojs.git
